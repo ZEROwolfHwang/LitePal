@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="demo" ></dbname>
+
+    <version value="6" ></version>
+
+    <list>
+
+        <mapping class="wolf.zero.litepal.News"/>
+        <mapping class="wolf.zero.litepal.Conment"/><mapping class="wolf.zero.litepal.Conment1"/><mapping class="wolf.zero.litepal.Conment2"/>
+
+
+
+    </list>
+</litepal>
